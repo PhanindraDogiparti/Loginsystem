@@ -4,10 +4,10 @@ public class IDandPasswords {
     HashMap<String, String> logininfo = new HashMap<String, String>();
 
     IDandPasswords() {
-        logininfo.put("khaja", "munna");
-        logininfo.put("phani", "wild");
-        logininfo.put("lavanya", "lalu");
-        logininfo.put("navya", "kolisetty");
+        logininfo.put(" ", " "); //Login info with your username and password in that empty Spaces
+        logininfo.put(" ", " "); //Login info with your username and password in that empty Spaces
+        logininfo.put(" ", " "); //Login info with your username and password in that empty Spaces
+        logininfo.put(" ", " "); //Login info with your username and password in that empty Spaces
 
     }
 
